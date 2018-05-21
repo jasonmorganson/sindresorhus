@@ -1,13 +1,13 @@
 {
-	"name": "sindresorhus",
+	"name": "jasonmorganson",
 	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"description": "The Jason Morganson CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "jasonmorganson/jasonmorganson",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Jason Morganson",
+		"email": "jason@morganson.me",
+		"url": "jason.morganson.me"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"
@@ -24,7 +24,9 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
+		"jason",
+		"morganson",
+		"jasonmorganson",
 		"unicorns"
 	],
 	"dependencies": {
