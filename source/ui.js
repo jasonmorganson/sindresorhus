@@ -47,7 +47,11 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.</Text>
+			<Text>I am...</Text><br/>
+			<Text>       - a dedicated leader who leads by example.</Text><br/>
+			<Text>       - a passionate professional with years of experience managing teams.</Text><br/>
+			<Text>       - a problem solver who loves a great challenge.</Text><br/>
+			<Text>       - an entrepreneur at heart who understands business.</Text><br/>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
