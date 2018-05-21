@@ -20,31 +20,19 @@ const handleSelect = item => {
 const items = [
 	{
 		label: 'Website',
-		url: 'https://sindresorhus.com'
+		url: 'https://jason.morganson.me'
 	},
 	{
 		label: 'Twitter',
-		url: 'https://twitter.com/sindresorhus'
+		url: 'https://twitter.com/jasonmorganson'
 	},
 	{
 		label: 'GitHub',
-		url: 'https://github.com/sindresorhus'
-	},
-	{
-		label: 'Blog',
-		url: 'https://blog.sindresorhus.com'
-	},
-	{
-		label: 'Ask Me Anything',
-		url: 'https://github.com/sindresorhus/ama'
+		url: 'https://github.com/jasonmorganson'
 	},
 	{
 		label: 'Contact',
-		url: 'https://sindresorhus.com/contact'
-	},
-	{
-		label: 'Support my open source work',
-		url: 'https://www.patreon.com/sindresorhus'
+		url: 'https://jason.morganson.me'
 	},
 	{
 		label: 'Unicorns!',
