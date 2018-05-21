@@ -1,6 +1,7 @@
 'use strict';
 const path = require('path');
 const {h, Text} = require('ink');
+const BigText = require('ink-big-text')
 const SelectInput = require('ink-select-input');
 const opn = require('opn');
 const terminalImage = require('terminal-image');
@@ -47,6 +48,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
+			<BigText text="Jason Morganson"/>
 			<Text>I am...</Text><br/>
 			<Text>       - a dedicated leader who leads by example.</Text><br/>
 			<Text>       - a passionate professional with years of experience managing teams.</Text><br/>
