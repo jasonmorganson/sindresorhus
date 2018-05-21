@@ -1,6 +1,6 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# jasonmorganson
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> The [Jason Morganson](https://jason.morganson.me) CLI
 
 <img src="screenshot.png" width="752">
 
@@ -10,7 +10,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx jasonmorganson
 ```
 
 
@@ -22,4 +22,4 @@ $ npx sindresorhus
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Jason Morganson](https://jason.morganson.me)
